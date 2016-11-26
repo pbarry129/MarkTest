@@ -6,7 +6,7 @@ Testing markup
 
 ##### Small now 
 
-**This is bold text **
+** This is bold text **
 
 *This is in italics I hope*
 
