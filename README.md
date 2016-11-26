@@ -6,9 +6,9 @@ Testing markup
 
 ##### Small now 
 
-** This is bold text  **
+**This is bold text **
 
-* This is in italics I hope *
+*This is in italics I hope*
 
  *This is in italics*
 
@@ -32,6 +32,7 @@ Here is a list of model brands
 - Italeri
 
 Here is a list of model planes
+
 1. Spitfire
 2. Hurricane
 3. Typhoon
