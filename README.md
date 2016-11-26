@@ -6,13 +6,13 @@ Testing markup
 
 ##### Small now 
 
-** This is bold text **
+**This is bold text**
 
 *This is in italics I hope*
 
  *This is in italics*
 
-**This text _ italics _ is**
+**This text _italics_ is**
 
 > To be or not to be
 
