@@ -10,9 +10,9 @@ Testing markup
 
 * This is in italics I hope *
 
-# * This is in italics * #
+ *This is in italics*
 
-# ** This text _ italics _ is ** 
+**This text _ italics _ is**
 
 > To be or not to be
 
@@ -25,14 +25,18 @@ There you are
 Wow 
 ```
 
+Here is a list of model brands
+
 - Airfix
 - Tamiya
 - Italeri
 
+Here is a list of model planes
 1. Spitfire
 2. Hurricane
 3. Typhoon
 
+This is an indented list 
 1. This is the first
   1. This is the sub-first
   2. This is the sub-second
